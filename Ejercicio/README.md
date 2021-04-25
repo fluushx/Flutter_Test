@@ -3,7 +3,7 @@
 ---
 ```
 Objetivo:
-Desarrollar una aplición movil que sea capas de leer una RSS 
+Desarrollar una aplición movil que sea capaz de leer una RSS 
 utilizando el siguiente Link: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
 Se deben abstraer los siguientes datos de estas variables:
 -Titulo de la noticia
