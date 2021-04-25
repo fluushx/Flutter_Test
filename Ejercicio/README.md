@@ -12,7 +12,7 @@ Se deben abstraer los siguientes datos de estas variables:
  
 
 Para ejecutar el programa debe instalar todos los paquetes necesarios de Flutter.
-https://flutter.dev/docs/get-started/install/windows
+https://flutter.dev/docs/get-started/install/
 Debe tener instalado el Flutter SDK.
 Una vez instalado todo, puede comprobar si tiene todo lo necesario consultando en su consola "flutter doctor"
 
