@@ -1,4 +1,4 @@
-package com.andsoft.flutter_app_rss_af
+package com.andsoft.flutter_ejercicio
 
 import android.os.Bundle
 
