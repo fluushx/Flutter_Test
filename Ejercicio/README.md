@@ -1,12 +1,12 @@
 # Flutter Ejercicio Moofwd
----
+```
 Objetivo:
 Desarrollar una aplición movil que sea capas de leer una RSS utilizando el siguiente Link: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
 Se deben abstraer los siguientes datos de estas variables:
 -Titulo de la noticia
 -Descripción de la noticia
 -Fecha de la noticia.
----
+```
 
 Para ejecutar el programa debe instalar todos los paquetes necesarios de Flutter.
 https://flutter.dev/docs/get-started/install/windows
