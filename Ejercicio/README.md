@@ -24,3 +24,5 @@ Una vez abierto el codigo en un editor con su terminal deberá ingresar
 ```
  
 ![ScreenShot](https://raw.githubusercontent.com/fluushx/Flutter_Test/main/Ejercicio/assets/Final.png)
+![ScreenShot](https://raw.githubusercontent.com/fluushx/Flutter_Test/main/Ejercicio/assets/Final2.png)
+
