@@ -22,3 +22,5 @@ Una vez abierto el codigo en un editor con su terminal deberá ingresar
 -flutter clean
 -flutter run
 ```
+ 
+![ScreenShot](https://raw.githubusercontent.com/fluushx/Flutter_Test/main/Ejercicio/assets/Final.png)
